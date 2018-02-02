@@ -1,0 +1,7 @@
+﻿Joanne Rowling;Harry Potter and the Philosopher's Stone;1997
+Joanne Rowling;Harry Potter and the Chamber of Secrets;1998
+Joanne Rowling;Harry Potter and the Prisoner of Azkaba;1999
+Joanne Rowling; Harry Potter and the Goblet of Fire;2000
+Joanne Rowling; Harry Potter and the Order of the Phoenix;2003
+Joanne Rowling; Harry Potter and the Half-Blood Prince;2006
+Joanne Rowling; Harry Potter and the Deathly Hallows;2007
